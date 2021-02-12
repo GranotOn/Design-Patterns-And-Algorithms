@@ -1,8 +1,8 @@
 # Todo
 
-- [ ] Implement `for_each`
-- [ ] Implement Factory
-- [ ] Implement Abstract Factory
+- [V] Implement `for_each`
+- [V] Implement Factory
+- [V] Implement Abstract Factory
 - [ ] Implement Builder
 - [ ] Create `Functors` and `Lambda expressions` program
 - [ ] Implement Prototype
