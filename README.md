@@ -1,19 +1,23 @@
 # Todo
 
-- [V] Implement `for_each`
-- [V] Implement Factory
-- [V] Implement Abstract Factory
-- [ ] Implement Builder
-- [ ] Create `Functors` and `Lambda expressions` program
-- [ ] Implement Prototype
-- [ ] Implement Singleton
-- [ ] Create `Friends` program
-- [ ] Implement `count_if`
+- [x] Implement `for_each`
+- [x] Implement Factory
+- [x] Implement Abstract Factory
+- [x] Implement Builder
+- [x] Create `Functors` program
+- [x] Create `Lambda expressions` program 
+- [x] Implement Prototype
+- [x] Implement Singleton
+- [x] Create `Friends` program
+- [x] Implement `count_if`
 - [ ] Implement Adapter
+- [ ] Create `const` program
+- [ ] Create `Pointers` and `References` program
 - [ ] Implement Bridge
 - [ ] Create `by ref` vs `by val` program
 - [ ] Implement Composoite
 - [ ] Implement Decorator
+- [ ] Create `Smart Pointers` program 
 - [ ] Implement Facade
 - [ ] Implement `copy_if`
 - [ ] Implement Flyweight
