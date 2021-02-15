@@ -10,22 +10,20 @@
 - [x] Implement Singleton
 - [x] Create `Friends` program
 - [x] Implement `count_if`
-- [ ] Implement Adapter
-- [ ] Create `const` program
-- [ ] Create `Pointers` and `References` program
-- [ ] Implement Bridge
-- [ ] Create `by ref` vs `by val` program
-- [ ] Implement Composoite
-- [ ] Implement Decorator
-- [ ] Create `Smart Pointers` program 
-- [ ] Implement Facade
-- [ ] Implement `copy_if`
-- [ ] Implement Flyweight
-- [ ] Create `dynamic_cast` vs `static_cast` program
-- [ ] Implement Proxy
+- [x] Implement Adapter
+- [x] Create `const` program
+- [x] Create `Pointers` and `References` program
+- [x] Implement Bridge
+- [x] Implement Composoite
+- [x] Implement Decorator
+- [x] Create `Smart Pointers` program 
+- [x] Implement Facade
+- [x] Implement `copy_if`
+- [x] Implement Proxy
+
 - [ ] Implement Command
-- [ ] Implement `sort`
 - [ ] Implement Iterator
+- [ ] Implement `Constructors` program 
 - [ ] Implement Mediator
 - [ ] Create `Thread` featuring `Mutex` and `atomic<int>` program
 - [ ] Implement Memento
