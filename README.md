@@ -20,18 +20,14 @@
 - [x] Implement Facade
 - [x] Implement `copy_if`
 - [x] Implement Proxy
-
-- [ ] Implement Command
-- [ ] Implement Iterator
-- [ ] Implement `Constructors` program 
-- [ ] Implement Mediator
-- [ ] Create `Thread` featuring `Mutex` and `atomic<int>` program
-- [ ] Implement Memento
-- [ ] Implement Observer
-- [ ] Create `std::move` program
+- [x] Implement Command
+- [x] Implement Iterator
+- [x] Implement `Constructors` program 
+- [x] Implement Mediator
+- [x] Create `Thread` featuring `Mutex` and `atomic<int>` program
+- [x] Implement Observer
+- [x] Create `std::move` program
+- [x] Implement Strategy
 - [ ] Implement State
-- [ ] Implement Strategy
 - [ ] Implement Template
 - [ ] Implement Visitor
-- [ ] Implement Double-Linked-List data-structure
-- [ ] Review code smells for all programs
